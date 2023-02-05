@@ -20,7 +20,7 @@
     "uuid": "^8.3.2"
   },
   "devDependencies": {
-    "cypress": "^9.5.1",
+    "cypress": "^12.5.1",
     "eslint": "^8.10.0",
     "eslint-plugin-react": "^7.29.2",
     "less": "^4.1.2",
